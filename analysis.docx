@@ -1,0 +1,15 @@
+# Analysis of PyCitySchools
+   
+		
+•	School_complete_data is created by merging the two dataframes. 
+
+•	District Summary Dataframe shows there are total 15 schools with Total of 39,170 Students and 
+    the calculation shows the Total Budget is over $24 million.
+    It also gives the averages of scores and the overall Percentage Passing is 65.17%
+
+•	School Summary Dataframes shows District and Charter are two School types with their Per student Budget ranges from 555 to 655.
+
+•	It clearly shows that Highest performing Schools are charter schools which are smaller in size when compared to all District Schools.
+    And Overall Reading performance is much higher than Math performance.
+
+•	
